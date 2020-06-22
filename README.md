@@ -4,7 +4,9 @@
 
 ## Searchable UFO Website
 
-![3-Data](Leaflet-Step-1/Images/USGS_webpage_header.PNG)
+![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
+
+![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
 
 I created an interactive website based on a dataset of UFO sightings across the United States. The website allows users to filter table data based on the date of the UFO sighting. 
 
