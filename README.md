@@ -6,7 +6,7 @@
 
 I created an interactive website based on a dataset of UFO sightings across the United States. The website allows users to filter table data based on the date of the UFO sighting.
 
-I appended a table to the web page adding new rows of data for each UFO sighting. I have a column for `Date`, `City`, `State`, `Country`, `Shape`, and `Comment`
+I appended a table to the web page adding new rows of data for each UFO sighting. I have a column for `Date`, `City`, `State`, `Country`, `Shape`, `Duration` and `Comments`.
 
 ![TableSample](UFO-level-1/UFO_table_sample.JPG)
 
