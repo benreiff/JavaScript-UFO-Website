@@ -10,7 +10,7 @@ I wrote code that appended a table to the web page adding new rows of data for e
 
 ![TableSample](UFO-level-1/UFO_table_sample.JPG)
 
-Using Javascript, I wrote code that searches through the `date/time` column to find rows that match user input.
+Using Javascript, I wrote code that searches through the `Date` column to find rows that match user input.
 
 ![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
 
