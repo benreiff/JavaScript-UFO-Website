@@ -8,6 +8,8 @@ I created an interactive website based on a dataset of UFO sightings across the 
 
 I wrote code that appended a table to the web page adding new rows of data for each UFO sighting.
 
+![TableSample](UFO-level-1/UFO_table_sample.JPG)
+
 Using Javascript, I wrote code that searches through the `date/time` column to find rows that match user input.
 
 ![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
@@ -21,8 +23,6 @@ We need you to write code that will create a table dynamically based upon a [dat
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
-
-![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
 
 ### Level 2: Multiple Search Categories (Optional)
 
