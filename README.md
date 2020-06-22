@@ -6,7 +6,7 @@
 
 I created an interactive website based on a dataset of UFO sightings across the United States. The website allows users to filter table data based on the date of the UFO sighting.
 
-I wrote code that appended a table to the web page adding new rows of data for each UFO sighting.
+I appended a table to the web page adding new rows of data for each UFO sighting.
 
 ![TableSample](UFO-level-1/UFO_table_sample.JPG)
 
