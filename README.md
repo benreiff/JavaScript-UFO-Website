@@ -2,6 +2,10 @@
 
 ## Searchable UFO Website
 
+![3-Data](Leaflet-Step-1/Images/USGS_webpage_header.PNG)
+
+![3-Data](Leaflet-Step-1/Images/USGS_webpage_header.PNG)
+
 I created an interactive website based on a dataset of UFO sightings across the United States. The website allows users to filter table data based on the date of the UFO sighting. 
 
 We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages.
