@@ -16,7 +16,7 @@ Using Javascript, I wrote code that searches through the `Date` column of the ta
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/data.js)
 
 - - -
 
