@@ -1,8 +1,8 @@
 # JavaScript Project
 
-## Searchable UFO Website
-
 ![NASA](UFO-level-1/nasa.jpg)
+
+## Searchable UFO Website
 
 ![3-Data](Leaflet-Step-1/Images/USGS_webpage_header.PNG)
 
