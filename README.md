@@ -6,15 +6,13 @@
 
 I created an interactive website based on a dataset of UFO sightings across the United States. The website allows users to filter table data based on the date of the UFO sighting.
 
-I appended a table to the web page adding new rows of data for each UFO sighting.
+I appended a table to the web page adding new rows of data for each UFO sighting. I have a column for `Date`, `City`, `State`, `Country`, `Shape`, and `Comment`
 
 ![TableSample](UFO-level-1/UFO_table_sample.JPG)
 
-Using Javascript, I wrote code that searches through the `Date` column to find rows that match user input.
+Using Javascript, I wrote code that searches through the `Date` column of the table to find rows that match user input.
 
 ![UFOfilter](UFO-level-1/UFO_date_filter.JPG)
-
-We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages.
 
 * Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
 
